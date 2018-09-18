@@ -1,0 +1,19 @@
+{
+  "name": "coursera-bootstrap",
+  "version": "1.0.0",
+  "description": "learning bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumit2bk/coursera-bootstrap.git"
+  },
+  "author": "sumit bakhli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumit2bk/coursera-bootstrap/issues"
+  },
+  "homepage": "https://github.com/sumit2bk/coursera-bootstrap#readme"
+}
