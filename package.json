@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sumit2bk/coursera-bootstrap/issues"
   },
-  "homepage": "https://github.com/sumit2bk/coursera-bootstrap#readme"
+  "homepage": "https://github.com/sumit2bk/coursera-bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
